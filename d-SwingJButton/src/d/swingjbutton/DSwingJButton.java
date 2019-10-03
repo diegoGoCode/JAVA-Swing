@@ -33,7 +33,5 @@ public class DSwingJButton extends JFrame implements ActionListener{
         formulario.setVisible(true);
         formulario.setLocationRelativeTo(null);
     }
-
-    
     
 }

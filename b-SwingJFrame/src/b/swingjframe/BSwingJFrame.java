@@ -20,6 +20,7 @@ public class BSwingJFrame extends JFrame{
         formulario.setVisible(true);
         formulario.setLocationRelativeTo(null);
         formulario.setResizable(false);
+        
     }
     
 }
